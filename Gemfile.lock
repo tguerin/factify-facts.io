@@ -94,6 +94,7 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   arm64-darwin-21
@@ -106,6 +107,7 @@ DEPENDENCIES
   jekyll-sitemap
   octopress-minify-html
   tzinfo-data
+  webrick
 
 BUNDLED WITH
    2.3.12

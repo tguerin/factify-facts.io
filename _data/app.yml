@@ -1,21 +1,31 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Factify Facts
+description: Your Ultimate App for Fun, Amazing, and Interesting Facts. Unleash Your Curiosity Today!
+full_description: "<p>&#x1F31F; Discover the world of incredible facts with Factify Facts! &#x1F31F;</p>
+
+<p>Embark on a journey of curiosity and knowledge with Factify Facts, the ultimate app for learning fun, interesting, and amazing facts. With 60+ categories and 3000+ facts at your fingertips, there's always something new and exciting to learn.</p>
+  
+  <ul class=\"custom-bullet\">
+  <li>Dive into 30+ FREE categories or upgrade to premium and unlock all 60+ categories for endless exploration.</li>
+  <li>Access detailed information to better understand each fact and satisfy your curiosity.</li>
+  <li>Share captivating facts with friends and family on social media, and ignite their curiosity too!</li>
+  <li>Save your favorite facts to revisit anytime with the easy-to-use Favorites feature.</li>
+  <li>Enjoy offline access to a world of knowledge, perfect for learning on-the-go.</li>
+  <li>Personalize your experience with dark mode, designed for comfortable reading and a sleek look.</li>
+  </ul>
+  
+  <p>Join the Factify Facts community today and expand your horizons with a wealth of fascinating facts. Download now and start your fact-finding adventure!</p>
+
+<p>&#x1F31F; Factify Facts: Unleash Your Curiosity - Fun, Amazing &amp; Interesting Facts &#x1F31F;</p>"
+
+android: https://play.google.com/store/apps/details?id=com.factify.app
+iOS: https://apps.apple.com/us/app/factify-facts/id6448727476
+web: false
 screenshots:
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
+  - 4.jpeg
+producthunt: https://www.producthunt.com/products/factify-facts
 companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
   - url: https://telegra.ph/Replace-this-link-07-23
     image: producthunt.png

@@ -80,6 +80,15 @@ a {
   }
 }
 
+ul.custom-bullet {
+  list-style-type: none;
+
+  li:before {
+    content: "\1F539"; // Unicode star character
+    color: blue; // Color of the bullet point
+    padding-right: 10px;
+  }
+}
 
 // Shared
 
